@@ -1,0 +1,15 @@
+{
+  "node_version": "24",
+  "dependencies": ["."],
+  "graphs": {
+    "02_agent_graph": "./labs/02_agent_graph/studio.ts:graph",
+    "04_self_check": "./labs/04_self_check/studio.ts:graph",
+    "08a_subagents": "./labs/08a_subagents/studio.ts:graph",
+    "08b_handoffs": "./labs/08b_handoffs/studio.ts:graph",
+    "08c_skills": "./labs/08c_skills/studio.ts:graph",
+    "08d_router": "./labs/08d_router/studio.ts:graph",
+    "09_refund_approval": "./labs/09_refund_approval/studio.ts:graph",
+    "13_support": "./labs/13_deploy/agent.ts:graph"
+  },
+  "env": ".env"
+}
